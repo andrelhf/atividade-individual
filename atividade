@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<meta charset="uft-8">
+	<meta http-equiv="X-UA-Compatible"content="IE=edge">
+	<meta name="viweport"content="width=device-width, initial-sacle=1.0">
+	<title>Curriculo</title>
+
+	<link rel="stylesheet" href="./style.css">
+</head>
+<body>
+	<h1>Atividade Prática - Currículo na Web</h1>
+	<p>Identificação - Apresentação - Formação Acadêmica - Experiência profissional</p>
+	<img src="20220412_141922.jpg">
+	<p><strong>Identificação</strong></p>
+	<ul>
+		<li>Zeus Znib</li>
+		<li>deusdoolimpo@zeus.com</li>
+		<li>(51) 0000-0000</li>
+		<li>Olimpo</li>
+	</ul>
+	<p><strong>Apresentação</strong></p>
+	<p class="paragrafo">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+	tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+	quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+	consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+	cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+	proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+	<p><strong>Formação Acadêmica</strong></p>
+	<ol>
+		<li>Raio forjado nos mais altos cumes do himalaia - Ásia</li>
+		<li>Curso Profissionalizante em arremesso de trovão</li>
+		<li>Grego - fluente</li>
+	</ol>	
+	<p><strong>Experiênca Profissional</strong></p>
+	<ul class="list-none">
+		<li>Rei do Inferno<ul class="list-none"><li>15 anos macetando o Hades na porrada</li></ul></li>
+		
+		<li>Treinador de Semi-Deuses<ul class="list-none"><li>Treinou Hércules</li></ul></li>
+		
+	</ul>
+</body>
+</html>
